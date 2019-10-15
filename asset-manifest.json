@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Taj-site/static/css/main.b100e6da.chunk.css",
+    "main.js": "/Taj-site/static/js/main.d4cdc7cf.chunk.js",
+    "main.js.map": "/Taj-site/static/js/main.d4cdc7cf.chunk.js.map",
+    "runtime-main.js": "/Taj-site/static/js/runtime-main.7334e595.js",
+    "runtime-main.js.map": "/Taj-site/static/js/runtime-main.7334e595.js.map",
+    "static/js/2.6167b3da.chunk.js": "/Taj-site/static/js/2.6167b3da.chunk.js",
+    "static/js/2.6167b3da.chunk.js.map": "/Taj-site/static/js/2.6167b3da.chunk.js.map",
+    "index.html": "/Taj-site/index.html",
+    "precache-manifest.e92f28d2c5212642af1b60937456a8d7.js": "/Taj-site/precache-manifest.e92f28d2c5212642af1b60937456a8d7.js",
+    "service-worker.js": "/Taj-site/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/Taj-site/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/Taj-site/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7334e595.js",
+    "static/js/2.6167b3da.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.d4cdc7cf.chunk.js"
+  ]
+}
