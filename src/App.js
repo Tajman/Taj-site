@@ -1,22 +1,19 @@
 import React from 'react';
 import './App.css'; 
-import 'bootstrap/dist/css/bootstrap.min.css';
-import Navbar from 'react-bootstrap/Navbar';
-import Nav from 'react-bootstrap/Nav';
+import 'bootstrap/dist/css/bootstrap.min.css'; 
+import Image from 'react-bootstrap/Image'; 
+import Container from 'react-bootstrap/Container';
+import NavBar from "./Navbar.js";
 
 function App() {
-  return (
-    <div className="App">
+  return ( 
+    <div className="App"> 
       <header className="App-header">
-        <Navbar bg="dark" variant="dark">
-    <Navbar.Brand href="#home">Menu</Navbar.Brand>  
-    <Nav className="mr-auto">
-      <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#Projects">Projects</Nav.Link>
-      <Nav.Link href="#About">About</Nav.Link>
-    </Nav> 
-  </Navbar>
-    </header>
+        <NavBar/>  
+      {/*<Container>
+            <Image src={require("./images/Tajman-no-glass.PNG")} rounded />
+        </Container>*/}
+    </header> 
     </div>
   );
 }
