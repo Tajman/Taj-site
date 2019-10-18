@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Taj-site/static/css/main.21b08090.chunk.css",
-    "main.js": "/Taj-site/static/js/main.a54424f0.chunk.js",
-    "main.js.map": "/Taj-site/static/js/main.a54424f0.chunk.js.map",
+    "main.css": "/Taj-site/static/css/main.4d84371b.chunk.css",
+    "main.js": "/Taj-site/static/js/main.4c55c9ec.chunk.js",
+    "main.js.map": "/Taj-site/static/js/main.4c55c9ec.chunk.js.map",
     "runtime-main.js": "/Taj-site/static/js/runtime-main.7334e595.js",
     "runtime-main.js.map": "/Taj-site/static/js/runtime-main.7334e595.js.map",
     "static/css/2.0624914a.chunk.css": "/Taj-site/static/css/2.0624914a.chunk.css",
-    "static/js/2.7d3d5bdd.chunk.js": "/Taj-site/static/js/2.7d3d5bdd.chunk.js",
-    "static/js/2.7d3d5bdd.chunk.js.map": "/Taj-site/static/js/2.7d3d5bdd.chunk.js.map",
+    "static/js/2.79c687e1.chunk.js": "/Taj-site/static/js/2.79c687e1.chunk.js",
+    "static/js/2.79c687e1.chunk.js.map": "/Taj-site/static/js/2.79c687e1.chunk.js.map",
     "index.html": "/Taj-site/index.html",
-    "precache-manifest.c60ba34c5c308a6c8c916dece2002c14.js": "/Taj-site/precache-manifest.c60ba34c5c308a6c8c916dece2002c14.js",
+    "precache-manifest.c0f46f11857be158f9430105dfa3be6f.js": "/Taj-site/precache-manifest.c0f46f11857be158f9430105dfa3be6f.js",
     "service-worker.js": "/Taj-site/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/Taj-site/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.21b08090.chunk.css.map": "/Taj-site/static/css/main.21b08090.chunk.css.map",
+    "static/css/main.4d84371b.chunk.css.map": "/Taj-site/static/css/main.4d84371b.chunk.css.map",
     "static/media/App.css": "/Taj-site/static/media/Background.17764600.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7334e595.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.7d3d5bdd.chunk.js",
-    "static/css/main.21b08090.chunk.css",
-    "static/js/main.a54424f0.chunk.js"
+    "static/js/2.79c687e1.chunk.js",
+    "static/css/main.4d84371b.chunk.css",
+    "static/js/main.4c55c9ec.chunk.js"
   ]
 }
