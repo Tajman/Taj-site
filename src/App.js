@@ -9,10 +9,14 @@ function App() {
   return ( 
     <div className="App"> 
       <header className="App-header">
-        <NavBar/>  
-      {/*<Container>
-            <Image src={require("./images/Tajman-no-glass.PNG")} rounded />
-        </Container>*/}
+        <NavBar/>   
+      <Container> 
+            <img className="Image-head" src={require("./images/Tajman-no-glass.PNG")} /> 
+        </Container> 
+  
+        <Container> 
+            <h1 className="Welcome">Welcome</h1>
+        </Container>
     </header> 
     </div>
   );
