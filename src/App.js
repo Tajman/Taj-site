@@ -3,7 +3,8 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css'; 
 import Image from 'react-bootstrap/Image'; 
 import Container from 'react-bootstrap/Container';
-import NavBar from "./Navbar.js";
+import NavBar from "./Navbar.js"; 
+import Footer from "./Footer.js";
 
 function App() {
   return ( 
@@ -17,7 +18,11 @@ function App() {
         <Container> 
             <h1 className="Welcome">Welcome</h1>
         </Container>
-    </header> 
+    </header>  
+            
+    <footer className="App-footer"> 
+            <Footer/>    
+    </footer>
     </div>
   );
 }
