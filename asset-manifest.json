@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Taj-site/static/css/main.15a61769.chunk.css",
-    "main.js": "/Taj-site/static/js/main.21b02e02.chunk.js",
-    "main.js.map": "/Taj-site/static/js/main.21b02e02.chunk.js.map",
+    "main.css": "/Taj-site/static/css/main.27029616.chunk.css",
+    "main.js": "/Taj-site/static/js/main.0aaea978.chunk.js",
+    "main.js.map": "/Taj-site/static/js/main.0aaea978.chunk.js.map",
     "runtime-main.js": "/Taj-site/static/js/runtime-main.7334e595.js",
     "runtime-main.js.map": "/Taj-site/static/js/runtime-main.7334e595.js.map",
     "static/css/2.83ace7dd.chunk.css": "/Taj-site/static/css/2.83ace7dd.chunk.css",
-    "static/js/2.2b8b12cb.chunk.js": "/Taj-site/static/js/2.2b8b12cb.chunk.js",
-    "static/js/2.2b8b12cb.chunk.js.map": "/Taj-site/static/js/2.2b8b12cb.chunk.js.map",
+    "static/js/2.9a2b3704.chunk.js": "/Taj-site/static/js/2.9a2b3704.chunk.js",
+    "static/js/2.9a2b3704.chunk.js.map": "/Taj-site/static/js/2.9a2b3704.chunk.js.map",
     "index.html": "/Taj-site/index.html",
-    "precache-manifest.3dd766e73d5ac5312c256e6d67d76956.js": "/Taj-site/precache-manifest.3dd766e73d5ac5312c256e6d67d76956.js",
+    "precache-manifest.78fe8f739be1989a60805a95bd81a851.js": "/Taj-site/precache-manifest.78fe8f739be1989a60805a95bd81a851.js",
     "service-worker.js": "/Taj-site/service-worker.js",
     "static/css/2.83ace7dd.chunk.css.map": "/Taj-site/static/css/2.83ace7dd.chunk.css.map",
-    "static/css/main.15a61769.chunk.css.map": "/Taj-site/static/css/main.15a61769.chunk.css.map",
+    "static/css/main.27029616.chunk.css.map": "/Taj-site/static/css/main.27029616.chunk.css.map",
     "static/media/App.css": "/Taj-site/static/media/Background.17764600.jpg",
     "static/media/Tajman-no-glass.PNG": "/Taj-site/static/media/Tajman-no-glass.0b18b4d7.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.7334e595.js",
     "static/css/2.83ace7dd.chunk.css",
-    "static/js/2.2b8b12cb.chunk.js",
-    "static/css/main.15a61769.chunk.css",
-    "static/js/main.21b02e02.chunk.js"
+    "static/js/2.9a2b3704.chunk.js",
+    "static/css/main.27029616.chunk.css",
+    "static/js/main.0aaea978.chunk.js"
   ]
 }
