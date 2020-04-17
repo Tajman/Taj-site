@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb6d14ed.chunk.css",
-    "main.js": "/static/js/main.0bf9b36e.chunk.js",
-    "main.js.map": "/static/js/main.0bf9b36e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b6170223.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b6170223.js.map",
-    "static/css/2.83ace7dd.chunk.css": "/static/css/2.83ace7dd.chunk.css",
-    "static/js/2.9a2b3704.chunk.js": "/static/js/2.9a2b3704.chunk.js",
-    "static/js/2.9a2b3704.chunk.js.map": "/static/js/2.9a2b3704.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dd68b8516f3af46328fceebaa304bccc.js": "/precache-manifest.dd68b8516f3af46328fceebaa304bccc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.83ace7dd.chunk.css.map": "/static/css/2.83ace7dd.chunk.css.map",
-    "static/css/main.bb6d14ed.chunk.css.map": "/static/css/main.bb6d14ed.chunk.css.map",
-    "static/media/App.css": "/static/media/Background.17764600.jpg",
-    "static/media/Tajman-no-glass.PNG": "/static/media/Tajman-no-glass.0b18b4d7.PNG"
+    "main.css": "/Taj-site/static/css/main.27029616.chunk.css",
+    "main.js": "/Taj-site/static/js/main.0aaea978.chunk.js",
+    "main.js.map": "/Taj-site/static/js/main.0aaea978.chunk.js.map",
+    "runtime-main.js": "/Taj-site/static/js/runtime-main.7334e595.js",
+    "runtime-main.js.map": "/Taj-site/static/js/runtime-main.7334e595.js.map",
+    "static/css/2.83ace7dd.chunk.css": "/Taj-site/static/css/2.83ace7dd.chunk.css",
+    "static/js/2.9a2b3704.chunk.js": "/Taj-site/static/js/2.9a2b3704.chunk.js",
+    "static/js/2.9a2b3704.chunk.js.map": "/Taj-site/static/js/2.9a2b3704.chunk.js.map",
+    "index.html": "/Taj-site/index.html",
+    "precache-manifest.78fe8f739be1989a60805a95bd81a851.js": "/Taj-site/precache-manifest.78fe8f739be1989a60805a95bd81a851.js",
+    "service-worker.js": "/Taj-site/service-worker.js",
+    "static/css/2.83ace7dd.chunk.css.map": "/Taj-site/static/css/2.83ace7dd.chunk.css.map",
+    "static/css/main.27029616.chunk.css.map": "/Taj-site/static/css/main.27029616.chunk.css.map",
+    "static/media/App.css": "/Taj-site/static/media/Background.17764600.jpg",
+    "static/media/Tajman-no-glass.PNG": "/Taj-site/static/media/Tajman-no-glass.0b18b4d7.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6170223.js",
+    "static/js/runtime-main.7334e595.js",
     "static/css/2.83ace7dd.chunk.css",
     "static/js/2.9a2b3704.chunk.js",
-    "static/css/main.bb6d14ed.chunk.css",
-    "static/js/main.0bf9b36e.chunk.js"
+    "static/css/main.27029616.chunk.css",
+    "static/js/main.0aaea978.chunk.js"
   ]
 }
