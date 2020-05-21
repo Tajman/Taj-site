@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Taj-site/precache-manifest.648f592e483857160570a819cf17f3a7.js"
+  "/Taj-site/precache-manifest.313abb57bb39d4390534f1283c94211f.js"
 );
 
 self.addEventListener('message', (event) => {
