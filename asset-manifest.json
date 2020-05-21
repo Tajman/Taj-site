@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Taj-site/static/css/main.27029616.chunk.css",
-    "main.js": "/Taj-site/static/js/main.0aaea978.chunk.js",
-    "main.js.map": "/Taj-site/static/js/main.0aaea978.chunk.js.map",
+    "main.js": "/Taj-site/static/js/main.a48e077a.chunk.js",
+    "main.js.map": "/Taj-site/static/js/main.a48e077a.chunk.js.map",
     "runtime-main.js": "/Taj-site/static/js/runtime-main.7334e595.js",
     "runtime-main.js.map": "/Taj-site/static/js/runtime-main.7334e595.js.map",
     "static/css/2.83ace7dd.chunk.css": "/Taj-site/static/css/2.83ace7dd.chunk.css",
     "static/js/2.9a2b3704.chunk.js": "/Taj-site/static/js/2.9a2b3704.chunk.js",
     "static/js/2.9a2b3704.chunk.js.map": "/Taj-site/static/js/2.9a2b3704.chunk.js.map",
     "index.html": "/Taj-site/index.html",
-    "precache-manifest.78fe8f739be1989a60805a95bd81a851.js": "/Taj-site/precache-manifest.78fe8f739be1989a60805a95bd81a851.js",
+    "precache-manifest.8c377e52ee16ed37c0810bf350184bed.js": "/Taj-site/precache-manifest.8c377e52ee16ed37c0810bf350184bed.js",
     "service-worker.js": "/Taj-site/service-worker.js",
     "static/css/2.83ace7dd.chunk.css.map": "/Taj-site/static/css/2.83ace7dd.chunk.css.map",
     "static/css/main.27029616.chunk.css.map": "/Taj-site/static/css/main.27029616.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.83ace7dd.chunk.css",
     "static/js/2.9a2b3704.chunk.js",
     "static/css/main.27029616.chunk.css",
-    "static/js/main.0aaea978.chunk.js"
+    "static/js/main.a48e077a.chunk.js"
   ]
 }
