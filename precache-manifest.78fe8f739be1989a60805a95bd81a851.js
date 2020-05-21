@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3b1cd3e1175ef6056bfa1242112e4d2f",
+    "revision": "1e8eec390f9e2d17c0f3da3223be95b6",
     "url": "/Taj-site/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Taj-site/static/css/2.83ace7dd.chunk.css"
   },
   {
-    "revision": "3e99bc0e14558a5947f7",
+    "revision": "244f7275cf15ffaad4cf",
     "url": "/Taj-site/static/css/main.27029616.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Taj-site/static/js/2.9a2b3704.chunk.js"
   },
   {
-    "revision": "3e99bc0e14558a5947f7",
-    "url": "/Taj-site/static/js/main.875fd3a5.chunk.js"
+    "revision": "244f7275cf15ffaad4cf",
+    "url": "/Taj-site/static/js/main.0aaea978.chunk.js"
   },
   {
     "revision": "182361eaf2b8f2333be1",
