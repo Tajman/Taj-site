@@ -22,10 +22,10 @@ function App() {
 
 export default App; 
 
- const Main = () => (
+ const Main = () => ( 
     <Switch>
-      <Route exact path='/' component={Home}></Route>
-      <Route exact path='/projects' component={Projects}></Route> 
-      <Route exact path='/about' component={About}></Route>
-    </Switch>
+      <Route exact path= '/' component={Home}></Route>
+      <Route exact path= '/projects' component={Projects}></Route> 
+      <Route exact path= '/about' component={About}></Route>
+    </Switch> 
     );
