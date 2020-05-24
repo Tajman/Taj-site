@@ -3,6 +3,50 @@
   display: flex;
   flex-direction: column;
   font-size: calc(10px + 2vmin);
-  color: white; 
+  color: blue; 
   
+} 
+
+.card-text {
+    color: blue;
+}
+
+.card {
+    border-color: white;
+    border-width: 3px;
+    
+    position: relative;
+    top: 0;
+    transition: all .1s ease-in; 
+}
+
+    .card:hover {
+        top: -2px;
+        box-shadow: 0 4px 5px rgba(0,0,0,0.2);
+    }
+
+.card-footer {
+    background-color: darkslategrey;
+}
+
+.band {
+    width: 90%;
+    max-width: 1240px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+}
+
+@media only screen and (min-width: 500px) {
+    .band {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media only screen and (min-width: 850px) {
+    .band {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
