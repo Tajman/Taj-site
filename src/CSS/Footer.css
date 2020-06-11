@@ -1,9 +1,11 @@
 .Footer {
-    text-align: center;  
+      
 } 
 
-a {
-    text-align: center;
+.Footer a {
+    text-align: center; 
+    width: 100%;
+    color: white;
 } 
 
 .App-footer {

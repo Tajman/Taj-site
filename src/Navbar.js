@@ -10,9 +10,10 @@ export default class NavBar extends Component {
         return (
   <Navbar bg="dark" variant="dark">  
     <Nav>
-      <Link to='/' className="Navbar">Home</Link>
-      <Link to='/projects' className="Navbar">Projects</Link>
-      <Link to='/about' className="Navbar">About</Link>
+      <Link to='/' className="Navbar"><i class="fas fa-home"></i> Home</Link>
+      <Link to='/projects' className="Navbar"><i class="fas fa-project-diagram"></i> Projects</Link> 
+      <Link to='/playlists' className="Navbar"><i class="fab fa-spotify"></i> Playlists</Link>
+      <Link to='/about' className="Navbar"><i class="fas fa-info"></i> About</Link>
     </Nav> 
   </Navbar>
         );

@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   font-size: calc(10px + 2vmin);
-  color: black; 
+  color: white; 
   
 } 
 
@@ -29,4 +29,9 @@
 @keyframes swipeL {
   from {margin-left: -100%} 
   to {margin-left: 0%}
+} 
+
+.gallery-image{
+  max-width: 50%;
+  
 }
