@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5d18905d4fbcdcfcc1b6bc4815ec2cf",
+    "revision": "bed1cf5c311f18a09813e55ed3477e25",
     "url": "/Taj-site/index.html"
   },
   {
-    "revision": "94acb18576f49a71efbc",
+    "revision": "d465c64a6d534c8b8da5",
     "url": "/Taj-site/static/css/2.83ace7dd.chunk.css"
   },
   {
-    "revision": "9aecbb0b855e2a11f409",
-    "url": "/Taj-site/static/css/main.a91ccb90.chunk.css"
+    "revision": "563d3ca61440f4374fc6",
+    "url": "/Taj-site/static/css/main.4e7fabf9.chunk.css"
   },
   {
-    "revision": "94acb18576f49a71efbc",
-    "url": "/Taj-site/static/js/2.d4358dd9.chunk.js"
+    "revision": "d465c64a6d534c8b8da5",
+    "url": "/Taj-site/static/js/2.dc9413de.chunk.js"
   },
   {
-    "revision": "9aecbb0b855e2a11f409",
-    "url": "/Taj-site/static/js/main.57dbd3fa.chunk.js"
+    "revision": "563d3ca61440f4374fc6",
+    "url": "/Taj-site/static/js/main.95b4bba1.chunk.js"
   },
   {
     "revision": "182361eaf2b8f2333be1",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "177646006178efd5379b06bf8b27ae8c",
     "url": "/Taj-site/static/media/Background.17764600.jpg"
+  },
+  {
+    "revision": "c3449fbe384dff1822a92b489c951c2b",
+    "url": "/Taj-site/static/media/Meme-Gen-pic.c3449fbe.png"
   },
   {
     "revision": "4a992c9ba55a7269ed200b0599a18072",

@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Taj-site/static/css/main.a91ccb90.chunk.css",
-    "main.js": "/Taj-site/static/js/main.57dbd3fa.chunk.js",
-    "main.js.map": "/Taj-site/static/js/main.57dbd3fa.chunk.js.map",
+    "main.css": "/Taj-site/static/css/main.4e7fabf9.chunk.css",
+    "main.js": "/Taj-site/static/js/main.95b4bba1.chunk.js",
+    "main.js.map": "/Taj-site/static/js/main.95b4bba1.chunk.js.map",
     "runtime-main.js": "/Taj-site/static/js/runtime-main.7334e595.js",
     "runtime-main.js.map": "/Taj-site/static/js/runtime-main.7334e595.js.map",
     "static/css/2.83ace7dd.chunk.css": "/Taj-site/static/css/2.83ace7dd.chunk.css",
-    "static/js/2.d4358dd9.chunk.js": "/Taj-site/static/js/2.d4358dd9.chunk.js",
-    "static/js/2.d4358dd9.chunk.js.map": "/Taj-site/static/js/2.d4358dd9.chunk.js.map",
+    "static/js/2.dc9413de.chunk.js": "/Taj-site/static/js/2.dc9413de.chunk.js",
+    "static/js/2.dc9413de.chunk.js.map": "/Taj-site/static/js/2.dc9413de.chunk.js.map",
     "index.html": "/Taj-site/index.html",
-    "precache-manifest.9b9748a77a7b8c3067b634d73ba9c2e3.js": "/Taj-site/precache-manifest.9b9748a77a7b8c3067b634d73ba9c2e3.js",
+    "precache-manifest.d79e1a892c2229f4524f65cda5863dc4.js": "/Taj-site/precache-manifest.d79e1a892c2229f4524f65cda5863dc4.js",
     "service-worker.js": "/Taj-site/service-worker.js",
     "static/css/2.83ace7dd.chunk.css.map": "/Taj-site/static/css/2.83ace7dd.chunk.css.map",
-    "static/css/main.a91ccb90.chunk.css.map": "/Taj-site/static/css/main.a91ccb90.chunk.css.map",
+    "static/css/main.4e7fabf9.chunk.css.map": "/Taj-site/static/css/main.4e7fabf9.chunk.css.map",
     "static/media/App.css": "/Taj-site/static/media/Background.17764600.jpg",
+    "static/media/Meme-Gen-pic.png": "/Taj-site/static/media/Meme-Gen-pic.c3449fbe.png",
     "static/media/Pic 1-1.jpg": "/Taj-site/static/media/Pic 1-1.4a992c9b.jpg",
     "static/media/Pic 2-2.jpg": "/Taj-site/static/media/Pic 2-2.d15ad51c.jpg",
     "static/media/Pic 3-3.jpg": "/Taj-site/static/media/Pic 3-3.7f4698be.jpg",
@@ -22,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.7334e595.js",
     "static/css/2.83ace7dd.chunk.css",
-    "static/js/2.d4358dd9.chunk.js",
-    "static/css/main.a91ccb90.chunk.css",
-    "static/js/main.57dbd3fa.chunk.js"
+    "static/js/2.dc9413de.chunk.js",
+    "static/css/main.4e7fabf9.chunk.css",
+    "static/js/main.95b4bba1.chunk.js"
   ]
 }
