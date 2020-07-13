@@ -1,14 +1,23 @@
-.App-header {
+.ProApp-header {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   font-size: calc(10px + 2vmin);
-  color: blue; 
+  color: black; 
   
-} 
+}
+
+.titlepro {
+    background-color: white;
+    max-width: 25%;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 25px;
+}
 
 .card-text {
-    color: blue;
+    color: blue; 
+    font-size: 20px;
 }
 
 .card {
@@ -26,7 +35,8 @@
     }
 
 .card-footer {
-    background-color: darkslategrey;
+    background-color: darkslategrey; 
+    font-size: 18px;
 }
 
 .band {

@@ -5,11 +5,11 @@ import "../../CSS/about.css"
 export default class About extends Component {
     render() {
         return (
-            <header className="App-header">
-            <h1> 
+            <header className="AboutApp-header">
+            <h1 className="titleabout"> 
              About
             </h1> 
-            </header>
+            </header> 
         );
     }
 }

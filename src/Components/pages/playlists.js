@@ -8,7 +8,7 @@ export default class Playlists extends Component {
         return (
             <header className="Playlist-header">
                 <Container> 
-                    <h1>
+                    <h1 className="titleplay">
                         Playlists
                     </h1> 
                 </Container> 
